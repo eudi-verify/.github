@@ -76,7 +76,7 @@ Ways to help:
 
 ## License
 
-AGPL-3.0 for open source use. Commercial licenses available for closed-source deployments — see [licensing details](https://github.com/eudi-verify/eudi-verify#license).
+AGPL-3.0 — free to use and host, even commercially. If you modify the verifier, you must share your changes. Commercial licenses available if you need to keep modifications proprietary — see [licensing details](https://github.com/eudi-verify/eudi-verify#license).
 
 ---
 
