@@ -40,15 +40,27 @@ This project is for developers, product teams, and integrators who want to prepa
 
 ## Get started
 
+**Requirements:** Node.js 22+, [pnpm](https://pnpm.io/).
+
+**1. Clone and build packages** — repository root only (`eudi-verify/`):
+
 ```bash
 git clone https://github.com/eudi-verify/eudi-verify.git
 cd eudi-verify
 pnpm install && pnpm build
+```
 
-# Terminal 1 — shared API server
+`pnpm build` compiles `packages/*`. Folders under `examples/` only have `start` — no `build` script.
+
+**2. Terminal 1 — shared API server** (new terminal; `cd` to your clone root first):
+
+```bash
 cd examples/server && pnpm start
+```
 
-# Terminal 2 — HTML demo
+**3. Terminal 2 — HTML demo** (another new terminal; clone root):
+
+```bash
 cd examples/html-vanilla && pnpm start
 ```
 
