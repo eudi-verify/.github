@@ -66,16 +66,32 @@ cd examples/html-vanilla && pnpm start
 
 Open `http://localhost:3001` for the live demo.
 
-Full documentation, architecture, API reference, and integration guide are in the [main repository](https://github.com/eudi-verify/eudi-verify).
-
----
+See the [integration guide](https://github.com/eudi-verify/eudi-verify/blob/main/docs/INTEGRATION.md) for production-like setup.
 
 ## Contributing
 
-Contributions are welcome — fixes, examples, tests, documentation, and real-world integration feedback. See the [contributing guide](https://github.com/eudi-verify/eudi-verify/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/eudi-verify/eudi-verify/blob/main/CODE_OF_CONDUCT.md).
+Contributions are welcome. Read the [contributing guide](https://github.com/eudi-verify/eudi-verify/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/eudi-verify/eudi-verify/blob/main/CODE_OF_CONDUCT.md).
 
----
+Ways to help:
+- Try the demo and open issues
+- Contribute fixes, examples, or tests
+- Share feedback from real integration scenarios
+- Improve documentation
+
+## Resources
+
+- **Main repository:** [eudi-verify/eudi-verify](https://github.com/eudi-verify/eudi-verify)
+- **Documentation:** [Architecture](https://github.com/eudi-verify/eudi-verify/blob/main/README.md#architecture) · [API spec](https://github.com/eudi-verify/eudi-verify/blob/main/openapi/eudi-verifier.yaml) · [Security](https://github.com/eudi-verify/eudi-verify/blob/main/SECURITY.md) · [Roadmap](https://github.com/eudi-verify/eudi-verify/blob/main/docs/PLAN.md)
+- **Demo:** https://demo.eudi-verify.eu/
+- **Discussions:** [GitHub Discussions](https://github.com/eudi-verify/eudi-verify/discussions)
+- **Contributing:** [CONTRIBUTING.md](https://github.com/eudi-verify/eudi-verify/blob/main/CONTRIBUTING.md)
 
 ## License
 
-AGPL-3.0. Commercial licenses available. See [licensing details](https://github.com/eudi-verify/eudi-verify/blob/main/LICENSING.md).
+Apache-2.0 — permissive, usable in open-source and proprietary projects alike. See [LICENSING.md](https://github.com/eudi-verify/eudi-verify/blob/main/LICENSING.md) for details.
+
+---
+
+**Official EU resources:**
+- [European Digital Identity Wallet — European Commission](https://ec.europa.eu/digital-building-blocks/sites/spaces/EUDIGITALIDENTITYWALLET/pages/694487738/EU+Digital+Identity+Wallet+Home)
+- [EUDI Wallet Architecture and Reference Framework](https://eu-digital-identity-wallet.github.io/eudi-doc-architecture-and-reference-framework/)
